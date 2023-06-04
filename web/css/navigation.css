@@ -100,7 +100,7 @@ a:active {
 	align-items:stretch;
 }
 .navfooter div {
-	z-index: 100
+	z-index: 100;
 	background-color: blue;
 	flex-basis:100px;
 	margin:1px;
