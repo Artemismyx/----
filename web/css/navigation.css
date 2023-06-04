@@ -101,7 +101,7 @@ a:active {
 }
 .navfooter div {
 	z-index: 100;
-	background-color: blue;
+	background-color: rgb(255, 255, 255);
 	flex-basis:100px;
 	margin:1px;
 	border:1px black dotted;
